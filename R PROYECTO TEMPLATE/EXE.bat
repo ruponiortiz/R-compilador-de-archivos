@@ -1,0 +1,1 @@
+"C:\Users\ruportiz\Documents\R\R-3.5.0\bin\x64\R.exe" CMD BATCH "C:\Users\ruportiz\Desktop\R PROYECTO TEMPLATE\SCRIPT.R"

@@ -1,0 +1,3 @@
+Dentro de la carpeta día, agregar la descarga de la query que está descrita dentro de la imagen.
+
+como punto importante está el pasar los archivos a formato .xlxs
